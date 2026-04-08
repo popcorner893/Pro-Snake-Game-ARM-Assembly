@@ -1,5 +1,5 @@
 
-![Snake Game Banner](ruta/a/tu/imagen_banner.png)
+![Snake Game Banner](Start_Screen.png)
 
 # 🐍 Snake Game - ARMv4 Assembly Edition
 
