@@ -67,11 +67,10 @@ El código está meticulosamente diseñado para interactuar con los periféricos
 
 ## 🚀 Cómo Ejecutar el Proyecto
 
-1. Clona este repositorio: `git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git`
-2. Abre un entorno que emule la arquitectura **Altera DE1-SoC ARMv4** (Por ejemplo, [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)).
-3. Carga el código fuente `.s` en el editor principal del simulador.
-4. Asegúrate de tener incluidos todos los recursos de imagen y audio que acompañan el código fuente (si los ensamblaste mediante bloques de datos `.word` o `.include`).
-5. Compila y ejecuta el simulador. ¡Disfruta!
+1. Abre un entorno que emule la arquitectura **Altera DE1-SoC ARMv4** (Por ejemplo, [CPUlator](https://cpulator.01xz.net/?sys=arm-de1soc)).
+2. Carga el código fuente `.s` en el editor principal del simulador.
+3. Asegúrate de tener incluidos todos los recursos de imagen y audio que acompañan el código fuente (ya están incluidos dentro del código mediante bloques de datos `.word` o `.include`).
+4. Compila y ejecuta el simulador. ¡Disfruta!
 
 ---
 *Desarrollado con ❤️ y mucha paciencia en Ensamblador.*
